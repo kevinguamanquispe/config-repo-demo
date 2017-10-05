@@ -1,6 +1,5 @@
 support:
   countries: us,ca
- 
- app:
+app:
   maxLength: 10
   prop : test
