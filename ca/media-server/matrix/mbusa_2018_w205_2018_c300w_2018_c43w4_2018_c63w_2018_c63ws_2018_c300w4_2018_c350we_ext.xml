@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediaServerOptions xmlns="http://www.mbusa.com/schema/shared/mediaserver" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <pov>E01,E02,E03,E04,E05,E06,E07,E08,E09,E10,E11,E12,E13,E14,E15,E16,E17,E18,E19,E20,E21,E22,E23,E24,E25,E26,E27,E28,E29,E30,E31,E32</pov>
+  <state>cgd,rt,cgdo,rto,rnd</state>
+  <vehicle>mbusa_2018_w205_2018_c300w_2018_c43w4_2018_c63w_2018_c63ws_2018_c300w4_2018_c350we_ext</vehicle>
+  <shotType type="exterior">
+    <option>
+      <id>NonConfigurable</id>
+      <label>NonConfigurable</label>
+      <paramName>sa</paramName>
+      <property>NonConfigurable</property>
+    </option>
+    <option>
+      <id>2018:C300W</id>
+      <label>C300</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C43W4</id>
+      <label>AMG C43 </label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C63W</id>
+      <label>AMG C63</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C63WS</id>
+      <label>AMG C63S</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C300W4</id>
+      <label>C300 4MATIC</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C350WE</id>
+      <label>C350e</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2:040</id>
+      <label>040-Black</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:149</id>
+      <label>149-Polar White</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:197</id>
+      <label>197-Obsidian Black Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:775</id>
+      <label>775-Iridium Silver Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:796</id>
+      <label>796-Dakota Brown Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:799</id>
+      <label>799-designo Diamond White Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:890</id>
+      <label>890-Lunar Blue Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:988</id>
+      <label>988-Diamond Silver Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:996</id>
+      <label>996-designo Cardinal Red Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:992</id>
+      <label>992-Selenite Grey Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:896</id>
+      <label>896-Brilliant Blue Metallic</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>9:P01_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>P01-Premium Package</property>
+    </option>
+    <option>
+      <id>9:P01</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>P01-Premium Package</property>
+    </option>
+    <option>
+      <id>9:319_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>319-Advanced Lighting Package</property>
+    </option>
+    <option>
+      <id>9:319</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>319-Advanced Lighting Package</property>
+    </option>
+    <option>
+      <id>9:321_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>321-AMG Line</property>
+    </option>
+    <option>
+      <id>9:321</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>321-AMG Line</property>
+    </option>
+    <option>
+      <id>9:521_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>521-Night Package</property>
+    </option>
+    <option>
+      <id>9:521</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>521-Night Package</property>
+    </option>
+    <option>
+      <id>9:996_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>996-Parking Assist Package</property>
+    </option>
+    <option>
+      <id>9:996</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>996-Parking Assist Package</property>
+    </option>
+    <option>
+      <id>9:997_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>997-Premium Driver Assistance Package</property>
+    </option>
+    <option>
+      <id>9:997</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>997-Premium Driver Assistance Package</property>
+    </option>
+    <option>
+      <id>9:B28_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>B28-AMG Exterior Carbon Fiber Package</property>
+    </option>
+    <option>
+      <id>9:B28</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>B28-AMG Exterior Carbon Fiber Package</property>
+    </option>
+    <option>
+      <id>0:234_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>234-Blind Spot Assist</property>
+    </option>
+    <option>
+      <id>0:234</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>234-Blind Spot Assist</property>
+    </option>
+    <option>
+      <id>0:B07_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>B07-AMG Carbon Ceramic Braking System</property>
+    </option>
+    <option>
+      <id>0:B07</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>B07-AMG Carbon Ceramic Braking System</property>
+    </option>
+    <option>
+      <id>0:U93_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>U93-AMG Carbon Fiber Trunk Lid Spoiler</property>
+    </option>
+    <option>
+      <id>0:U93</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>U93-AMG Carbon Fiber Trunk Lid Spoiler</property>
+    </option>
+    <option>
+      <id>0:104_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>104-Rear Spoiler</property>
+    </option>
+    <option>
+      <id>0:104</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>104-Rear Spoiler</property>
+    </option>
+    <option>
+      <id>0:413_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>413-Panorama Roof</property>
+    </option>
+    <option>
+      <id>0:413</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>413-Panorama Roof</property>
+    </option>
+    <option>
+      <id>0:632_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>632-LED Headlamps</property>
+    </option>
+    <option>
+      <id>0:632</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>632-LED Headlamps</property>
+    </option>
+    <option>
+      <id>0:R48</id>
+      <label>R48-17&quot; Split 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:22R</id>
+      <label>22R-18&quot; Split 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:782</id>
+      <label>782-18&quot; AMG 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:788</id>
+      <label>788-19&quot; AMG Multi-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:665</id>
+      <label>665-19&quot; AMG Multi-Spoke Black/polished</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:662</id>
+      <label>662-19&quot; AMG Cross-Spoke Forged</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:770</id>
+      <label>770-19&quot; AMG Cross-Spoke Forged</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:793</id>
+      <label>793-19&quot; AMG Twin 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:790</id>
+      <label>790-18&quot; AMG Twin 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:792</id>
+      <label>792-18&quot; AMG 5 Spoke Black/polished</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:604</id>
+      <label>604-19&quot; AMG Spilt 5-Spoke w/ Black Accents</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:644</id>
+      <label>644-19&quot; AMG Split 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:661</id>
+      <label>661-18&quot; AMG 5-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:605</id>
+      <label>605-19&quot; AMG Multi-Spoke</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>0:606</id>
+      <label>606-19&quot; AMG Multi-Spoke w/ Black Accents</label>
+      <paramName>sa</paramName>
+      <property>Wheels</property>
+    </option>
+    <option>
+      <id>WT</id>
+      <label>Wheel Turns</label>
+      <paramName>sa</paramName>
+      <property>Transformations</property>
+    </option>
+    <option>
+      <id>shadow_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>Shadow</property>
+    </option>
+    <option>
+      <id>shadow</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>Shadow</property>
+    </option>
+    <option>
+      <id>BSC01</id>
+      <label>TEMP</label>
+      <paramName>fabric</paramName>
+      <property>Fabric</property>
+    </option>
+    <option>
+      <id>br</id>
+      <label>br</label>
+      <paramName>sa</paramName>
+      <property>Brake Reflections</property>
+    </option>
+  </shotType>
+</mediaServerOptions>

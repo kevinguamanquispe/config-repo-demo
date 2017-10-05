@@ -1,0 +1,345 @@
+{
+	"default": {
+		"default": {
+			"model_hero_exterior": {
+				"pov": "E01",
+				"state": "CGD",
+				"bkgnd": "transparent",
+				"type": "png",
+				"sa": "noglints,shadow",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "895",
+						"y": "566",
+						"w": "2960",
+						"h": "1190"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "895",
+						"y": "566",
+						"w": "2960",
+						"h": "1190"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "895",
+						"y": "566",
+						"w": "2960",
+						"h": "1190"
+					}
+				}
+			},
+			"byo_hero_exterior": {
+				"pov": "E01",
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "926",
+						"y": "749",
+						"w": "3139",
+						"h": "1027"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "926",
+						"y": "749",
+						"w": "3139",
+						"h": "1027"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "926",
+						"y": "749",
+						"w": "3139",
+						"h": "1027"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E01",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "926",
+						"y": "749",
+						"w": "3139",
+						"h": "1027"
+					}
+				}
+			},
+			"byo_hero_interior": {
+				"pov": "centerpano",
+				"state": "CGD",
+				"hfov": "110",
+				"angle": "7",
+				"pitch": "23",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "384"
+					},
+					"tablet": {
+						"width": "1200",
+						"height": "600"
+					},
+					"desktop": {
+						"width": "1200",
+						"height": "600"
+					}
+				}
+			},
+			"byo_hero_thumbnail_interior": {
+				"pov": "centerpano",
+				"state": "CGD",
+				"hfov": "110",
+				"angle": "7",
+				"pitch": "23",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102"
+					}
+				}
+			},
+			"byo_print_legacy_exterior": {
+				"pov": "E01",
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "450",
+						"height": "225",
+						"x": "926",
+						"y": "749",
+						"w": "3139",
+						"h": "1027"
+					}
+				}
+			},
+			"byo_print_legacy_interior": {
+				"pov": "centerpano",
+				"state": "CGD",
+				"hfov": "110",
+				"angle": "7",
+				"pitch": "23",
+				"dimensions": {
+					"default": {
+						"width": "450",
+						"height": "225"
+					}
+				}
+			},
+			"model_hero_interior": {
+				"pov": "centerpano",
+				"state": "CGD",
+				"hfov": "110",
+				"angle": "7",
+				"pitch": "23",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600"
+					}
+				}
+			}
+		},
+		"angle_02": {
+			"byo_hero_interior": {
+				"pov": "centerpano",
+				"state": "CGD",
+				"hfov": "105",
+				"angle": "150",
+				"pitch": "23",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "384"
+					},
+					"tablet": {
+						"width": "1200",
+						"height": "600"
+					},
+					"desktop": {
+						"width": "1200",
+						"height": "600"
+					}
+				}
+			},
+			"byo_hero_thumbnail_interior": {
+				"pov": "centerpano",
+				"state": "CGD",
+				"hfov": "115",
+				"angle": "140",
+				"pitch": "20",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102"
+					}
+				}
+			}
+		},
+		"angle_16": {
+			"byo_hero_exterior": {
+				"pov": "E16",
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "647",
+						"y": "805",
+						"w": "3798",
+						"h": "1242"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "647",
+						"y": "805",
+						"w": "3798",
+						"h": "1242"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "647",
+						"y": "805",
+						"w": "3798",
+						"h": "1242"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E01",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "647",
+						"y": "805",
+						"w": "3798",
+						"h": "1242"
+					}
+				}
+			}
+		},
+		"angle_09": {
+			"byo_hero_exterior": {
+				"pov": "E16",
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E01",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					}
+				}
+			}
+		},
+		"angle_26": {
+			"byo_hero_exterior": {
+				"pov": "E26",
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E01",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "283",
+						"y": "710",
+						"w": "3798",
+						"h": "1242"
+					}
+				}
+			}
+		}
+	}
+}

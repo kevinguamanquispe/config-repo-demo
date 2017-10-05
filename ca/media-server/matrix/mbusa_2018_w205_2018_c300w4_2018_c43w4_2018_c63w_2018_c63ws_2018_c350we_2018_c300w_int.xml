@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mediaServerOptions xmlns="http://www.mbusa.com/schema/shared/mediaserver" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <pov>I01,IF01,centerpano</pov>
+  <state>cgd,rt,cgdo,rto,rnd</state>
+  <vehicle>mbusa_2018_w205_2018_c300w4_2018_c43w4_2018_c63w_2018_c63ws_2018_c350we_2018_c300w_int</vehicle>
+  <shotType type="interior">
+    <option>
+      <id>NonConfigurable</id>
+      <label>NonConfigurable</label>
+      <paramName>sa</paramName>
+      <property>NonConfigurable</property>
+    </option>
+    <option>
+      <id>2018:C300W4</id>
+      <label>C300 4MATIC</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C43W4</id>
+      <label>AMG C43</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C63W</id>
+      <label>AMG C63</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C63WS</id>
+      <label>AMG C63 S</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C350WE</id>
+      <label>C350e</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2018:C300W</id>
+      <label>C300</label>
+      <paramName>vehicle</paramName>
+      <property>Trim Levels</property>
+    </option>
+    <option>
+      <id>2:040</id>
+      <label>040-Black</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:149</id>
+      <label>149-Polar White</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:197</id>
+      <label>197-Obsidian Black</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:775</id>
+      <label>775-Iridium Silver</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:896</id>
+      <label>896-Brilliant Blue</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:992</id>
+      <label>992-Selenite Grey</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:796</id>
+      <label>796-Dakota Brown</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:799</id>
+      <label>799-designo Diamond White</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:890</id>
+      <label>890-Lunar Blue</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:988</id>
+      <label>988-Diamond Silver</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>2:996</id>
+      <label>996-designo Cardinal Red</label>
+      <paramName>paint</paramName>
+      <property>Colors</property>
+    </option>
+    <option>
+      <id>4:101</id>
+      <label>101 - Black MB-Tex</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:201</id>
+      <label>201 - Black Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:115</id>
+      <label>115 - Silk Beige/Black MB-Tex</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:215</id>
+      <label>215 - Silk Beige/Black Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:118</id>
+      <label>118 - Crystal Grey/Black MB-Tex</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:218</id>
+      <label>218 - Crystal Grey/Black Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:141</id>
+      <label>141 - Black MB-Tex</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:251</id>
+      <label>251 - Black Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:267</id>
+      <label>267 - Cranberry Red/Black Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:268</id>
+      <label>268 - Crystal Grey/Black Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:801</id>
+      <label>801 - Black AMG Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:851</id>
+      <label>851 - Black/Platinum White AMG Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:857</id>
+      <label>857 - Black/Red Pepper AMG Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:811</id>
+      <label>811 - Black AMG Leather with Grey Accents</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:611</id>
+      <label>611 - Black MB-Tex/DINAMICA</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:641</id>
+      <label>641 - Black MB-Tex/DINAMICA w/ Red Stitch</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:241</id>
+      <label>241 - Black Leather w/Red Stitch</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:P87</id>
+      <label>P87 - designo Saddle Brown/Black Nappa Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>4:P62</id>
+      <label>P62 - designo Platinum White Pearl/Black Nappa Leather</label>
+      <paramName>fabric</paramName>
+      <property>Interior Fabrics</property>
+    </option>
+    <option>
+      <id>MBTEX</id>
+      <label>MB-Tex</label>
+      <paramName>sa</paramName>
+      <property>Upholstery</property>
+    </option>
+    <option>
+      <id>LEATHER</id>
+      <label>Leather</label>
+      <paramName>sa</paramName>
+      <property>Upholstery</property>
+    </option>
+    <option>
+      <id>AMGL</id>
+      <label>Exclusive Nappa Leather</label>
+      <paramName>sa</paramName>
+      <property>Upholstery</property>
+    </option>
+    <option>
+      <id>AMGD</id>
+      <label>MB-Tex w/DINAMICA</label>
+      <paramName>sa</paramName>
+      <property>Upholstery</property>
+    </option>
+    <option>
+      <id>DLTH</id>
+      <label>designo Exclusive Nappa Leather</label>
+      <paramName>sa</paramName>
+      <property>Upholstery</property>
+    </option>
+    <option>
+      <id>4:51U</id>
+      <label>51U - Black Fabric Headliner</label>
+      <paramName>sa</paramName>
+      <property>Headliners</property>
+    </option>
+    <option>
+      <id>4:55U</id>
+      <label>55U - Porcelain Fabric Headliner</label>
+      <paramName>sa</paramName>
+      <property>Headliners</property>
+    </option>
+    <option>
+      <id>4:58U</id>
+      <label>58U - Crystal Grey Fabric Headliner</label>
+      <paramName>sa</paramName>
+      <property>Headliners</property>
+    </option>
+    <option>
+      <id>0:U17</id>
+      <label>Black Seat Belts</label>
+      <paramName>sa</paramName>
+      <property>Seat Belt Color</property>
+    </option>
+    <option>
+      <id>0:Y04</id>
+      <label>Silver Seat Belts</label>
+      <paramName>sa</paramName>
+      <property>Seat Belt Color</property>
+    </option>
+    <option>
+      <id>0:Y05</id>
+      <label>Red Seat Belts</label>
+      <paramName>sa</paramName>
+      <property>Seat Belt Color</property>
+    </option>
+    <option>
+      <id>STD_SB</id>
+      <label>Standard</label>
+      <paramName>sa</paramName>
+      <property>Seat Belt Color</property>
+    </option>
+    <option>
+      <id>0:289</id>
+      <label>289 - Wood/Leather Steering Wheel</label>
+      <paramName>sa</paramName>
+      <property>Steering Wheel</property>
+    </option>
+    <option>
+      <id>0:281</id>
+      <label>281 - AMG Performance Steering Wheel w/DINAMICA</label>
+      <paramName>sa</paramName>
+      <property>Steering Wheel</property>
+    </option>
+    <option>
+      <id>STD_SW</id>
+      <label>Standard</label>
+      <paramName>sa</paramName>
+      <property>Steering Wheel</property>
+    </option>
+    <option>
+      <id>0:737</id>
+      <label>737 - Natural Grain Black Ash Wood/Aluminum</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>0:H07</id>
+      <label>H07 - Linden Wood</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>0:731</id>
+      <label>731 - Burl Walnut Wood</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>0:H73</id>
+      <label>H73 - AMG Carbon Fiber</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>0:H84</id>
+      <label>H84 - AMG Silver Fiberglass</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>0:H09</id>
+      <label>H09 - Natural Grain Brown Ash Wood</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>0:736</id>
+      <label>736 - Natural Grain Black Ash Wood</label>
+      <paramName>sa</paramName>
+      <property>Trim Material</property>
+    </option>
+    <option>
+      <id>9:B28_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>B28 - AMG Exterior Carbon Fiber Package</property>
+    </option>
+    <option>
+      <id>9:B28</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>B28 - AMG Exterior Carbon Fiber Package</property>
+    </option>
+    <option>
+      <id>9:P01_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>P01 - Premium Package</property>
+    </option>
+    <option>
+      <id>9:P01</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>P01 - Premium Package</property>
+    </option>
+    <option>
+      <id>0:U25_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>U25 - Illuminated Door Sills</property>
+    </option>
+    <option>
+      <id>0:U25</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>U25 - Illuminated Door Sills</property>
+    </option>
+    <option>
+      <id>0:U78_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>U78 - AMG Performance Exhaust System</property>
+    </option>
+    <option>
+      <id>0:U78</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>U78 - AMG Performance Exhaust System</property>
+    </option>
+    <option>
+      <id>0:11A_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>11A - Black Mirror Housing Covers</property>
+    </option>
+    <option>
+      <id>0:11A</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>11A - Black Mirror Housing Covers</property>
+    </option>
+    <option>
+      <id>0:16A_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>16A - Carbon Fiber-look Mirror Housing Covers</property>
+    </option>
+    <option>
+      <id>0:16A</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>16A - Carbon Fiber-look Mirror Housing Covers</property>
+    </option>
+    <option>
+      <id>0:234_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>234 - Blind Spot Assist</property>
+    </option>
+    <option>
+      <id>0:234</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>234 - Blind Spot Assist</property>
+    </option>
+    <option>
+      <id>0:235_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>235 - PARKTRONIC with Advanced Parking Assist</property>
+    </option>
+    <option>
+      <id>0:235</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>235 - PARKTRONIC with Advanced Parking Assist</property>
+    </option>
+    <option>
+      <id>0:313_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>313 - Manual Rear-Seat Sunshades</property>
+    </option>
+    <option>
+      <id>0:313</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>313 - Manual Rear-Seat Sunshades</property>
+    </option>
+    <option>
+      <id>9:315_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>315 - AIRMATIC Package</property>
+    </option>
+    <option>
+      <id>9:315</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>315 - AIRMATIC Package</property>
+    </option>
+    <option>
+      <id>9:317_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>317 - Comfort Package</property>
+    </option>
+    <option>
+      <id>9:317</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>317 - Comfort Package</property>
+    </option>
+    <option>
+      <id>9:318_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>318 - Leather Seating Package</property>
+    </option>
+    <option>
+      <id>9:318</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>318 - Leather Seating Package</property>
+    </option>
+    <option>
+      <id>9:319_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>319 - Advanced Lighting Package</property>
+    </option>
+    <option>
+      <id>9:319</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>319 - Advanced Lighting Package</property>
+    </option>
+    <option>
+      <id>9:320_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>320 - Multimedia Package</property>
+    </option>
+    <option>
+      <id>9:320</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>320 - Multimedia Package</property>
+    </option>
+    <option>
+      <id>9:321_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>321 - AMG Line</property>
+    </option>
+    <option>
+      <id>9:321</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>321 - AMG Line</property>
+    </option>
+    <option>
+      <id>0:401_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>401 - Heated and Ventilated Seats</property>
+    </option>
+    <option>
+      <id>0:401</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>401 - Heated and Ventilated Seats</property>
+    </option>
+    <option>
+      <id>0:413_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>413 - Panorama Sunroof</property>
+    </option>
+    <option>
+      <id>0:413</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>413 - Panorama Sunroof</property>
+    </option>
+    <option>
+      <id>0:443_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>443 - Heated Steering Wheel</property>
+    </option>
+    <option>
+      <id>0:443</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>443 - Heated Steering Wheel</property>
+    </option>
+    <option>
+      <id>0:463_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>463 - Head-up Display</property>
+    </option>
+    <option>
+      <id>0:463</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>463 - Head-up Display</property>
+    </option>
+    <option>
+      <id>9:521_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>521 - Night Package / AMG Night Package</property>
+    </option>
+    <option>
+      <id>9:521</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>521 - Night Package / AMG Night Package</property>
+    </option>
+    <option>
+      <id>0:540_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>540 - Power Rear-Window Sunshade</property>
+    </option>
+    <option>
+      <id>0:540</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>540 - Power Rear-Window Sunshade</property>
+    </option>
+    <option>
+      <id>0:555_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>555 - AMG Performance Seats</property>
+    </option>
+    <option>
+      <id>0:555</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>555 - AMG Performance Seats</property>
+    </option>
+    <option>
+      <id>0:810_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>810 - Burmester Premium Sound System</property>
+    </option>
+    <option>
+      <id>0:810</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>810 - Burmester Premium Sound System</property>
+    </option>
+    <option>
+      <id>0:873_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>873 - Heated Front Seats</property>
+    </option>
+    <option>
+      <id>0:873</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>873 - Heated Front Seats</property>
+    </option>
+    <option>
+      <id>0:877_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>877 - Ambient lighting</property>
+    </option>
+    <option>
+      <id>0:877</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>877 - Ambient lighting</property>
+    </option>
+    <option>
+      <id>9:996_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>996 - Parking Assist Package</property>
+    </option>
+    <option>
+      <id>9:996</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>996 - Parking Assist Package</property>
+    </option>
+    <option>
+      <id>9:997_off</id>
+      <label>off</label>
+      <paramName>sa</paramName>
+      <property>997 - Driver Assistance Package</property>
+    </option>
+    <option>
+      <id>9:997</id>
+      <label>on</label>
+      <paramName>sa</paramName>
+      <property>997 - Driver Assistance Package</property>
+    </option>
+    <option>
+      <id>BS_O</id>
+      <label>Off</label>
+      <paramName>sa</paramName>
+      <property>Buck Shots</property>
+    </option>
+    <option>
+      <id>BS_L</id>
+      <label>Left Off</label>
+      <paramName>sa</paramName>
+      <property>Buck Shots</property>
+    </option>
+    <option>
+      <id>BS_R</id>
+      <label>Right Off</label>
+      <paramName>sa</paramName>
+      <property>Buck Shots</property>
+    </option>
+    <option>
+      <id>D_O</id>
+      <label>All On</label>
+      <paramName>sa</paramName>
+      <property>Doors</property>
+    </option>
+    <option>
+      <id>D_R</id>
+      <label>Left Off</label>
+      <paramName>sa</paramName>
+      <property>Doors</property>
+    </option>
+    <option>
+      <id>D_L</id>
+      <label>Right Off</label>
+      <paramName>sa</paramName>
+      <property>Doors</property>
+    </option>
+    <option>
+      <id>VPOFF</id>
+      <label>Off</label>
+      <paramName>sa</paramName>
+      <property>Vehicle Power</property>
+    </option>
+    <option>
+      <id>VPON</id>
+      <label>On</label>
+      <paramName>sa</paramName>
+      <property>Vehicle Power</property>
+    </option>
+    <option>
+      <id>ALOFF</id>
+      <label>Off</label>
+      <paramName>sa</paramName>
+      <property>Ambient Lighting</property>
+    </option>
+    <option>
+      <id>ALON</id>
+      <label>On</label>
+      <paramName>sa</paramName>
+      <property>Ambient Lighting</property>
+    </option>
+    <option>
+      <id>L_WR</id>
+      <label>Studio</label>
+      <paramName>sa</paramName>
+      <property>Lighting</property>
+    </option>
+    <option>
+      <id>L_WC</id>
+      <label>Warm &amp; Cool</label>
+      <paramName>sa</paramName>
+      <property>Lighting</property>
+    </option>
+    <option>
+      <id>glints</id>
+      <label>glints</label>
+      <paramName>sa</paramName>
+      <property>Glints</property>
+    </option>
+    <option>
+      <id>noglints</id>
+      <label>noglints</label>
+      <paramName>sa</paramName>
+      <property>Glints</property>
+    </option>
+  </shotType>
+</mediaServerOptions>

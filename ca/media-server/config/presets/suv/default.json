@@ -1,0 +1,189 @@
+{
+	"default": {
+		"default": {
+			"byo_hero_exterior": {
+				"pov": "E01",
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "1008",
+						"y": "723",
+						"w": "2991",
+						"h": "979"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "1008",
+						"y": "723",
+						"w": "2991",
+						"h": "979"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "1008",
+						"y": "723",
+						"w": "2991",
+						"h": "979"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E01",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "1008",
+						"y": "723",
+						"w": "2991",
+						"h": "979"
+					}
+				}
+			}
+		},
+		"angle_09": {
+			"byo_hero_exterior": {
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "564",
+						"y": "654",
+						"w": "3641",
+						"h": "1192"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "564",
+						"y": "654",
+						"w": "3641",
+						"h": "1192"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "564",
+						"y": "654",
+						"w": "3641",
+						"h": "1192"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E09",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "564",
+						"y": "654",
+						"w": "3641",
+						"h": "1192"
+					}
+				}
+			}
+		},
+		"angle_16": {
+			"byo_hero_exterior": {
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "750",
+						"y": "758",
+						"w": "3715",
+						"h": "1214"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "750",
+						"y": "758",
+						"w": "3715",
+						"h": "1214"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "750",
+						"y": "758",
+						"w": "3715",
+						"h": "1214"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E16",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "1185",
+						"y": "751",
+						"w": "2317",
+						"h": "1160"
+					}
+				}
+			}
+		},
+		"angle_26": {
+			"byo_hero_exterior": {
+				"state": "CGD",
+				"dimensions": {
+					"default": {
+						"width": "768",
+						"height": "320",
+						"x": "808",
+						"y": "714",
+						"w": "3372",
+						"h": "1103"
+					},
+					"tablet": {
+						"width": "1440",
+						"height": "600",
+						"x": "808",
+						"y": "714",
+						"w": "3372",
+						"h": "1103"
+					},
+					"desktop": {
+						"width": "1440",
+						"height": "600",
+						"x": "808",
+						"y": "714",
+						"w": "3372",
+						"h": "1103"
+					}
+				}
+			},
+			"byo_hero_exterior_thumbnail": {
+				"pov": "E26",
+				"state": "CGD",
+				"processing": "quarterimage",
+				"dimensions": {
+					"default": {
+						"width": "180",
+						"height": "102",
+						"x": "808",
+						"y": "714",
+						"w": "3372",
+						"h": "1103"
+					}
+				}
+			}
+		}
+	}
+}

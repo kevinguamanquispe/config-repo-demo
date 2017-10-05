@@ -1,0 +1,24 @@
+ {
+	"C": [
+		{
+			"model": "C300W",
+			"bodyStyle": "sdn",
+			"exteriorMatrixFile": "mbusa_2018_w205_2018_c300w_2018_c43w4_2018_c63w_2018_c63ws_2018_c300w4_2018_c350we_ext.xml",
+			"interiorMatrixFile": "mbusa_2018_w205_2018_c300w4_2018_c43w4_2018_c63w_2018_c63ws_2018_c350we_2018_c300w_int.xml"
+		},
+		{
+			"model": "C300W4",
+			"bodyStyle": "sdn",
+			"exteriorMatrixFile": "mbusa_2018_w205_2018_c300w_2018_c43w4_2018_c63w_2018_c63ws_2018_c300w4_2018_c350we_ext.xml",
+			"interiorMatrixFile": "mbusa_2018_w205_2018_c300w4_2018_c43w4_2018_c63w_2018_c63ws_2018_c350we_2018_c300w_int.xml"
+		}
+	],
+	"S": [
+		{
+			"model": "test2",
+			"bodyStyle": "sdn",
+			"exteriorMatrixFile": "",
+			"interiorMatrixFile": "mbusa_2018_w205_2018_c300w4_2018_c43w4_2018_c63w_2018_c63ws_2018_c350we_2018_c300w_int.xml"
+		}
+	]
+}
